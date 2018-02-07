@@ -1,0 +1,24 @@
+{
+  "name": "inactivity-timer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/inactivity-timer",
+  "keywords": [
+    "idle timer",
+    "idle tracker",
+    "idle",
+    "inactive",
+    "inactivty timer",
+    "inactivty tracker",
+    "inactivty"
+  ],
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
